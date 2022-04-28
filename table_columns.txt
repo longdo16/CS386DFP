@@ -1,0 +1,5 @@
+it.: [it.id]
+mi.: [mi.info_type_id, mi.info, mi.movie_id]
+mc.: [mc.note, mc.company_type_id, mc.movie_id]
+t.: [t.id, ct.id, t.production_year, it.id, ct.kind, t.title]
+ct.: [ct.id, ct.kind]

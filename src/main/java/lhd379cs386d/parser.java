@@ -2,6 +2,9 @@ package lhd379cs386d;
 
 import java.util.*;
 import java.io.StringReader;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 
 import net.sf.jsqlparser.JSQLParserException;
 import net.sf.jsqlparser.expression.BinaryExpression;
@@ -24,42 +27,51 @@ import net.sf.jsqlparser.statement.Statement;
 
 public class parser {
 
-    static String prefix = "CommonAttr";
-
     public static void main(String[] args) {
         test();
     }
 
-    public static Map<String, ArrayList<String>> rename(ArrayList<String> list, ArrayList<String> columns)
+    public static void write_connection(Map<String, ArrayList<String>> map, ArrayList<String> connections)
     {
-        Map<String, ArrayList<String>> map = new HashMap<>();
-
-        for(int i = 0; i < list.size(); i++)
+        try
         {
-            String[] cur = list.get(i).split(" ");
-            String left = cur[0];
-            String right = cur[2];
-
-            if(columns.contains(left) && columns.contains(right))
+            FileWriter  writer = new FileWriter("connections.txt");
+            for(String connection: connections)
             {
-                int size = map.size() + 1;
-                String new_name = prefix + size;
+                writer.write(connection + "\n");   
             }
+            System.out.println("Successfully wrote to the file.");
+            writer.close();
         }
-
-        return map;
-    }
-
-    public static void construct_hypergraph(Map<String, ArrayList<String>> map)
-    {
-        int size = map.size();
-        for(int i = 0; i < size; i++)
+        catch(IOException e)
         {
-
+            System.out.println("An error occurred.");
+            e.printStackTrace();
         }
     }
 
-    public static ArrayList<String> get_connection(String query)
+    public static void write_table_columns(Map<String, ArrayList<String>> map)
+    {
+        try
+        {
+            FileWriter  writer = new FileWriter("table_columns.txt");
+            for(String key: map.keySet())
+            {
+                ArrayList<String> list = map.get(key);
+                Set<String> set = new HashSet<>(list);
+                writer.write(key + ": " + set.toString() + "\n");
+            }
+            System.out.println("Successfully wrote to the file.");
+            writer.close();
+        }
+        catch(IOException e)
+        {
+            System.out.println("An error occurred.");
+            e.printStackTrace();
+        }
+    }
+
+    public static ArrayList<String> get_connection(String query, ArrayList<String> columns)
     {
         ArrayList<String> list = new ArrayList<>();
         try
@@ -73,8 +85,14 @@ public class parser {
                 protected void visitBinaryExpression(BinaryExpression expr) {
                     if (expr instanceof ComparisonOperator) {
                         String exp = expr.getLeftExpression() + " " + expr.getStringExpression() + " " + expr.getRightExpression();
-                        // System.out.println("left=" + expr.getLeftExpression() + "  op=" +  expr.getStringExpression() + "  right=" + expr.getRightExpression());
-                        list.add(exp);
+                        String left = expr.getLeftExpression().toString();
+                        String right = expr.getRightExpression().toString();
+                        String op = expr.getStringExpression().toString();
+
+                        if(columns.contains(left) && columns.contains(right))
+                        {
+                            list.add(exp);
+                        }
                     }
     
                     super.visitBinaryExpression(expr); 
@@ -100,6 +118,9 @@ public class parser {
         {
             System.out.println(key + ": " + map.get(key).toString());
         }
+        ArrayList<String> connections = get_connection(query, columns);
+        write_table_columns(map);
+        write_connection(map, connections);
     }
 
     public static ArrayList<String> get_columns(String query)

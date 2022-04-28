@@ -1,0 +1,5 @@
+t.id = mi.movie_id
+t.id = mc.movie_id
+mc.movie_id = mi.movie_id
+ct.id = mc.company_type_id
+it.id = mi.info_type_id
