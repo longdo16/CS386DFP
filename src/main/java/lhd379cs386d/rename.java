@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.*;
 import java.io.FileNotFoundException;
 
+import javax.lang.model.util.ElementScanner6;
 import javax.swing.plaf.synth.SynthTextAreaUI;
 
 public class rename {
@@ -17,14 +18,58 @@ public class rename {
         build_graph(list, map);
         rename(map);
         Map<String, ArrayList<String>> table_columns = construct_table_with_new_name(map);
-        // for(String key: table_columns.keySet())
-        // {
-        //     System.out.println(key + ": " + table_columns.get(key).toString());
-        // }
-        construct_hypergraph(table_columns);
+        ArrayList<String>  hypergraph = construct_hypergraph(table_columns);
+        construct_primalgraph(hypergraph);
     }
 
-    public static void construct_hypergraph(Map<String, ArrayList<String>> table_columns)
+    public static void construct_primalgraph(ArrayList<String> hypergraph)
+    {
+        ArrayList<String[]> edges = new ArrayList<>();
+        for(String h: hypergraph)
+        {
+            String[] cur = h.split(" ");
+            ArrayList<String> list = new ArrayList<>();
+            String h_name = cur[0];
+
+            for(int i = 1; i < cur.length; i++)
+            {
+                list.add(cur[i]);
+            }
+            Collections.sort(list);
+            for(int i = 0; i < list.size() - 1; i++)
+            {
+                for(int j = i + 1; j < list.size(); j++)
+                {
+                    // String edge = list.get(i) + " " + list.get(j);
+                    //System.out.println(list.get(i) + " " + list.get(j));
+                    edges.add(new String[] {list.get(i), list.get(j)});
+                }
+            }
+        }
+        Collections.sort(edges, new Comparator<String[]>() {
+            @Override
+            public int compare(String[] o1, String[] o2) {
+                if(o1[0].compareTo(o2[0]) < 0)
+                {
+                    return -1;
+                }
+                else if(o1[0].compareTo(o2[0]) > 0)
+                {
+                    return 1;
+                }
+                else
+                {
+                    return o1[1].compareTo(o2[1]);
+                }
+            }
+        });
+        for(int i = 0; i < edges.size(); i++)
+        {
+            System.out.println(edges.get(i)[0] + " " + edges.get(i)[1]);
+        }
+    }
+
+    public static ArrayList<String> construct_hypergraph(Map<String, ArrayList<String>> table_columns)
     {
         Set<String> set = new HashSet<>();
         for(String key: table_columns.keySet())
@@ -36,6 +81,7 @@ public class rename {
             }
         }
         Map<String, String> table_vertex_mapping = new HashMap<>();
+        ArrayList<String> hypergraph = new ArrayList<>();
         int v_count = 0;
         int e_count = 0;
         for(String column: set)
@@ -49,7 +95,10 @@ public class rename {
         for(String key: table_columns.keySet())
         {
             ArrayList<String> list = table_columns.get(key);
-            System.out.print("E" + (e_count + 1) + " (");
+            StringBuilder sb = new StringBuilder();
+            String hyperedge = "E" + (e_count + 1);
+            System.out.print(hyperedge + " (");
+            sb.append(hyperedge);
 
             for(int i = 0; i < list.size(); i++)
             {
@@ -57,7 +106,9 @@ public class rename {
                 {
                     System.out.print(" ");
                 }
+                sb.append(" ");
                 System.out.print(table_vertex_mapping.get(list.get(i)));
+                sb.append(table_vertex_mapping.get(list.get(i)));
             }
             if(count == table_columns.size() - 1)
             {
@@ -69,7 +120,15 @@ public class rename {
             }
             count += 1;
             e_count += 1;
+            hypergraph.add(sb.toString());
         }
+
+        for(String h: hypergraph)
+        {
+            System.out.println(h);
+        }
+
+        return hypergraph;
     }
 
     public static Map<String, ArrayList<String>> construct_table_with_new_name(Map<String, node> map)
