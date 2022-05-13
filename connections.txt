@@ -1,5 +1,11 @@
-t.id = mi.movie_id
-t.id = mc.movie_id
-mc.movie_id = mi.movie_id
+mi.movie_id = t.id
+it2.id = mi.info_type_id
+kt.id = t.kind_id
+mc.movie_id = t.id
+cn.id = mc.company_id
 ct.id = mc.company_type_id
-it.id = mi.info_type_id
+miidx.movie_id = t.id
+it.id = miidx.info_type_id
+mi.movie_id = miidx.movie_id
+mi.movie_id = mc.movie_id
+miidx.movie_id = mc.movie_id
