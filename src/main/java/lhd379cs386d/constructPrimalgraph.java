@@ -188,7 +188,7 @@ public class constructPrimalgraph {
             writer.write("p " + max + " " + edges.size() + "\n");
             for(Integer[] edge: edges)
             {
-                writer.write("e " + edge[0] + " " + edge[1] + "\n");   
+                writer.write("e " + (edge[0] - 1) + " " + (edge[1] - 1) + "\n");   
             }
             System.out.println("Successfully wrote to the file.");
             writer.close();
