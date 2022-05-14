@@ -40,34 +40,40 @@ public class constructQuerygraph {
         // ArrayList<String> hypergraph = read_hypergraph("TPC-HBenchmark/Hypergraph/q5.txt");
         // construct_primalgraph(hypergraph, "q5.txt");
 
-        String input = display_option_and_get_input();
-        String dir = "";
+        // String input = display_option_and_get_input();
+        // String dir = "";
 
-        if(!(input.compareTo("tpc_h") == 0 || input.compareTo("job") == 0 || input.compareTo("mlk") == 0))
+        // if(!(input.compareTo("tpc_h") == 0 || input.compareTo("job") == 0 || input.compareTo("mlk") == 0))
+        // {
+        //     System.out.println("Invalid Benchmark! Terminate.");
+        //     return;
+        // }
+        // else
+        // {
+        //     if(input.compareTo("tpc_h") == 0)
+        //     {
+        //         dir = TPC_H_dir;
+        //     }
+        //     else if(input.compareTo("job") == 0)
+        //     {
+        //         dir = JOB_dir;
+        //     }
+        //     else
+        //     {
+        //         dir = MLK_dir;
+        //     }
+        // }
+
+        String[] dirs = new String[] {TPC_H_dir, JOB_dir, MLK_dir};
+
+        for(String dir: dirs)
         {
-            System.out.println("Invalid Benchmark! Terminate.");
-            return;
-        }
-        else
-        {
-            if(input.compareTo("tpc_h") == 0)
+            ArrayList<String> files = get_hypergraph(dir);
+            for(String file: files)
             {
-                dir = TPC_H_dir;
+                ArrayList<Set<Integer>> hypergraph = read_hypergraph(dir + "/Hypergraph/" + file + ".txt");
+                construct_querygraph(hypergraph, file, dir);
             }
-            else if(input.compareTo("job") == 0)
-            {
-                dir = JOB_dir;
-            }
-            else
-            {
-                dir = MLK_dir;
-            }
-        }
-        ArrayList<String> files = get_hypergraph(dir);
-        for(String file: files)
-        {
-            ArrayList<Set<Integer>> hypergraph = read_hypergraph(dir + "/Hypergraph/" + file + ".txt");
-            construct_querygraph(hypergraph, file, dir);
         }
     }
 
@@ -163,8 +169,8 @@ public class constructQuerygraph {
             {
                 hypergraph.add(new HashSet<>());
                 String data = console.nextLine();
-                data = data.substring(0, data.length() - 2).replace(" (", " ").trim();
-                String[] temp = data.split(" ");
+                data = data.substring(0, data.length() - 2).replace(" (", ", ").trim();
+                String[] temp = data.split(", ");
                 for(int i = 1; i < temp.length; i++)
                 {
                     hypergraph.get(hypergraph.size() - 1).add(Integer.parseInt(temp[i].substring(1)));

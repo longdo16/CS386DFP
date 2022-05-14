@@ -1,0 +1,5 @@
+/u/lhd379/Documents/DBMSFP/finalproject ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_474kqau7nml50vobepecjpgix.argfile lhd379cs386d.JOB_Parser
+/u/lhd379/Documents/DBMSFP/finalproject ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_474kqau7nml50vobepecjpgix.argfile lhd379cs386d.MLK_Parser
+/u/lhd379/Documents/DBMSFP/finalproject ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_474kqau7nml50vobepecjpgix.argfile lhd379cs386d.TPC_H_Parser
+/u/lhd379/Documents/DBMSFP/finalproject ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_474kqau7nml50vobepecjpgix.argfile lhd379cs386d.constructPrimalgraph
+/u/lhd379/Documents/DBMSFP/finalproject ; /usr/bin/env /usr/lib/jvm/java-11-openjdk-amd64/bin/java @/tmp/cp_474kqau7nml50vobepecjpgix.argfile lhd379cs386d.constructQuerygraph

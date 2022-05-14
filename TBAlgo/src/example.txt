@@ -1,0 +1,3 @@
+./main -minfill < instances/anna.graph
+./main -minfill < instances/anna.graph
+./main -minfill < instances/anna.graph

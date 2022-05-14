@@ -1,0 +1,3 @@
+TBAlgo/main -treewidth q5 < TPC-HBenchmark/Primalgraph/q5.graph
+TBAlgo/main -treewidth q8 < TPC-HBenchmark/Primalgraph/q8.graph
+TBAlgo/main -treewidth q9 < TPC-HBenchmark/Primalgraph/q9.graph

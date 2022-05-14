@@ -228,7 +228,7 @@ public class JOB_Parser {
                 {
                     if(i != 0)
                     {
-                        str.append(" ");
+                        str.append(", ");
                     }
                     sb.append(" ");
                     sb.append(table_vertex_mapping.get(list.get(i)));

@@ -1,0 +1,9 @@
+TBAlgo/main -treewidth q1 < MLKBenchmark/Primalgraph/q1.graph
+TBAlgo/main -treewidth q2 < MLKBenchmark/Primalgraph/q2.graph
+TBAlgo/main -treewidth q3 < MLKBenchmark/Primalgraph/q3.graph
+TBAlgo/main -treewidth q4 < MLKBenchmark/Primalgraph/q4.graph
+TBAlgo/main -treewidth q5 < MLKBenchmark/Primalgraph/q5.graph
+TBAlgo/main -treewidth q6 < MLKBenchmark/Primalgraph/q6.graph
+TBAlgo/main -treewidth q7 < MLKBenchmark/Primalgraph/q7.graph
+TBAlgo/main -treewidth q8 < MLKBenchmark/Primalgraph/q8.graph
+TBAlgo/main -treewidth q9 < MLKBenchmark/Primalgraph/q9.graph

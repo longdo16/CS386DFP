@@ -40,34 +40,16 @@ public class constructPrimalgraph {
         // ArrayList<String> hypergraph = read_hypergraph("TPC-HBenchmark/Hypergraph/q5.txt");
         // construct_primalgraph(hypergraph, "q5.txt");
 
-        String input = display_option_and_get_input();
-        String dir = "";
+        String[] dirs = new String[] {TPC_H_dir, JOB_dir, MLK_dir};
 
-        if(!(input.compareTo("tpc_h") == 0 || input.compareTo("job") == 0 || input.compareTo("mlk") == 0))
+        for(String dir: dirs)
         {
-            System.out.println("Invalid Benchmark! Terminate.");
-            return;
-        }
-        else
-        {
-            if(input.compareTo("tpc_h") == 0)
+            ArrayList<String> files = get_hypergraph(dir);
+            for(String file: files)
             {
-                dir = TPC_H_dir;
+                ArrayList<String> hypergraph = read_hypergraph(dir + "/Hypergraph/" + file + ".txt");
+                construct_primalgraph(hypergraph, file, dir);
             }
-            else if(input.compareTo("job") == 0)
-            {
-                dir = JOB_dir;
-            }
-            else
-            {
-                dir = MLK_dir;
-            }
-        }
-        ArrayList<String> files = get_hypergraph(dir);
-        for(String file: files)
-        {
-            ArrayList<String> hypergraph = read_hypergraph(dir + "/Hypergraph/" + file + ".txt");
-            construct_primalgraph(hypergraph, file, dir);
         }
     }
 
@@ -118,7 +100,8 @@ public class constructPrimalgraph {
             {
                 String data = console.nextLine();
                 // System.out.println(data);
-                data = data.substring(0, data.length() - 2).replace(" (", " ");
+                data = data.substring(0, data.length() - 2).replace(" (", ", ");
+                System.out.println(data);
                 hypergraph.add(data);
             }
             console.close();
@@ -138,7 +121,7 @@ public class constructPrimalgraph {
         int max = 0;
         for(String h: hypergraph)
         {
-            String[] cur = h.split(" ");
+            String[] cur = h.split(", ");
             ArrayList<String> list = new ArrayList<>();
             String h_name = cur[0];
 
