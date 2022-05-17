@@ -112,7 +112,7 @@ int main(int argc, char **argv)
 			cout << "Checking hypertree conditions done in " << difftime(end, start) << " sec." << endl << endl;
 			HT->outputToGML(cOutFile);
 			cout << "GML output written to: " << cOutFile << endl << endl;
-			return EXIT_SUCCESS;
+			break;
 		}
 	}
 
