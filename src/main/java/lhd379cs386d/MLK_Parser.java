@@ -55,7 +55,7 @@ public class MLK_Parser {
                 query = process_query(query);
                 Map<String, ArrayList<String>> aliases = new HashMap<>();
                 // System.out.println(query);
-                System.out.println(file);
+                // System.out.println(file);
 
                 ArrayList<String> edges = get_connection(query, scheme, aliases);
                 Map<String, node> column_node_mapping = build_graph(edges);

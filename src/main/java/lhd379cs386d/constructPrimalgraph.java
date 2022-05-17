@@ -101,7 +101,7 @@ public class constructPrimalgraph {
                 String data = console.nextLine();
                 // System.out.println(data);
                 data = data.substring(0, data.length() - 2).replace(" (", ", ");
-                System.out.println(data);
+                // System.out.println(data);
                 hypergraph.add(data);
             }
             console.close();
@@ -119,24 +119,26 @@ public class constructPrimalgraph {
     {
         ArrayList<Integer[]> edges = new ArrayList<>();
         int max = 0;
+        System.out.println();
         for(String h: hypergraph)
         {
             String[] cur = h.split(", ");
-            ArrayList<String> list = new ArrayList<>();
+            ArrayList<Integer> list = new ArrayList<>();
             String h_name = cur[0];
 
             for(int i = 1; i < cur.length; i++)
             {
-                list.add(cur[i]);
+                list.add(Integer.parseInt(cur[i].substring(1)));
             }
             Collections.sort(list);
+            // System.out.println(list);
             for(int i = 0; i < list.size() - 1; i++)
             {
-                int left = Integer.parseInt(list.get(i).substring(1));
+                int left = list.get(i);
                 max = Math.max(max, left);
                 for(int j = i + 1; j < list.size(); j++)
                 {
-                    int right = Integer.parseInt(list.get(j).substring(1));
+                    int right = list.get(j);
                     edges.add(new Integer[] {left, right});
                     max = Math.max(max, right);
                 }
