@@ -1,0 +1,2503 @@
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q1.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 14 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q1.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q2.txt" ... 
+Parsing input file done in 0 sec (3 atoms, 7 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 3).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q2.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q3.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 8 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q3.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q4.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 5 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q4.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q5.txt" ... 
+Parsing input file done in 0 sec (3 atoms, 3 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 3).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q5.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q6.txt" ... 
+Parsing input file done in 0 sec (3 atoms, 4 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 3).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q6.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q7.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 5 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q7.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q8.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 4 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q8.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "MLKBenchmark/Hypergraph/q9.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 4 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: MLKBenchmark/Hypergraph/q9.gml
+
+MLKBenchmark
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q31b.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q31b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q31c.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q31c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q32a.txt" ... 
+Parsing input file done in 0 sec (6 atoms, 31 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 6).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q32a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q32b.txt" ... 
+Parsing input file done in 0 sec (6 atoms, 31 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 6).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q32b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q33a.txt" ... 
+Parsing input file done in 0 sec (14 atoms, 59 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 14).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q33a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q33b.txt" ... 
+Parsing input file done in 0 sec (14 atoms, 59 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 14).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q33b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q33c.txt" ... 
+Parsing input file done in 0 sec (14 atoms, 59 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 14).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q33c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q3a.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 20 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q3a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q3b.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 20 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q3b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q3c.txt" ... 
+Parsing input file done in 0 sec (4 atoms, 20 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 4).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q3c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q4a.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 21 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q4a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q4b.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 21 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q4b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q23c.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 37 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q23c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q24a.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 59 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q24a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q24b.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 59 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q24b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q25a.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q25a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q25b.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q25b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q25c.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q25c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q26a.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q26a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q26b.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q26b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q30a.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 45 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q30a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q30b.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 45 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q30b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q30c.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 45 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q30c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q31a.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q31a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q17d.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q17d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q17e.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q17e.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q17f.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q17f.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q18a.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 36 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q18a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q18b.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 36 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q18b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q18c.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 36 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q18c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q19a.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 55 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q19a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q19b.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 55 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q19b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q19c.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 55 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q19c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q19d.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 55 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q19d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q1a.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q1a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q1b.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q1b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q26c.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q26c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q27a.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q27a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q27b.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q27b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q27c.txt" ... 
+Parsing input file done in 0 sec (12 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 12).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q27c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q28a.txt" ... 
+Parsing input file done in 0 sec (14 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 14).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q28a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q28b.txt" ... 
+Parsing input file done in 0 sec (14 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 14).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q28b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q28c.txt" ... 
+Parsing input file done in 0 sec (14 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 14).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q28c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q29a.txt" ... 
+Parsing input file done in 0 sec (17 atoms, 69 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 17).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q29a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q29b.txt" ... 
+Parsing input file done in 0 sec (17 atoms, 69 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 17).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q29b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q29c.txt" ... 
+Parsing input file done in 0 sec (17 atoms, 69 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 17).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q29c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q2a.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 26 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q2a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q2b.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 26 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q2b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q2c.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 26 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q2c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q2d.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 26 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q2d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q4c.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 21 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q4c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q5a.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q5a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q5b.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q5b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q5c.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q5c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q6a.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 30 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q6a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q6b.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 30 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q6b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q6c.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 30 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q6c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q6d.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 30 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q6d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q6e.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 30 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q6e.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q6f.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 30 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q6f.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q7a.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 42 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q7a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q7b.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 42 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q7b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q7c.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 42 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q7c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q8a.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 44 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q8a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q21a.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 35 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q21a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q21b.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 35 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q21b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q21c.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 35 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q21c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q22a.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 38 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q22a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q22b.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 38 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q22b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q22c.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 38 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q22c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q22d.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 38 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q22d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q23a.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 37 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q23a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q23b.txt" ... 
+Parsing input file done in 0 sec (11 atoms, 37 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 11).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q23b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q10a.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 36 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q10a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q15d.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q15d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q13b.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 34 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q13b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q13c.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 34 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q13c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q13d.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 34 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q13d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q14a.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 27 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q14a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q14b.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 27 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q14b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q14c.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 27 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q14c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q15a.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q15a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q15b.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q15b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q15c.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 43 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q15c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q8b.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 44 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q8b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q8c.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 44 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q8c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q8d.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 44 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q8d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q9a.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q9a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q9b.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q9b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q9c.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q9c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q9d.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 50 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q9d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q10b.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 36 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q10b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q10c.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 36 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q10c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q11a.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 31 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q11a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q12a.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 33 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q12a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q13a.txt" ... 
+Parsing input file done in 0 sec (9 atoms, 34 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 9).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q13a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q16a.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q16a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q17a.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q17a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q20a.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 42 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q20a.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q11b.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 31 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q11b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q11c.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 31 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q11c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q11d.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 31 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q11d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q12b.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 33 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q12b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q12c.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 33 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q12c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q16b.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q16b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q16c.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q16c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q16d.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 47 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q16d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q17b.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q17b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q17c.txt" ... 
+Parsing input file done in 0 sec (7 atoms, 40 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 7).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q17c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q1c.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q1c.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q1d.txt" ... 
+Parsing input file done in 0 sec (5 atoms, 22 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 5).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q1d.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q20b.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 42 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q20b.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "JOBBenchmark/Hypergraph/q20c.txt" ... 
+Parsing input file done in 0 sec (10 atoms, 42 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 10).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: JOBBenchmark/Hypergraph/q20c.gml
+
+JOBBenchmark
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "TPC-HBenchmark/Hypergraph/q5.txt" ... 
+Parsing input file done in 0 sec (6 atoms, 41 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 6).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: TPC-HBenchmark/Hypergraph/q5.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "TPC-HBenchmark/Hypergraph/q8.txt" ... 
+Parsing input file done in 0 sec (8 atoms, 58 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 8).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: TPC-HBenchmark/Hypergraph/q8.gml
+
+*** det-k-decomp (version 2.0) ***
+
+Parsing input file "TPC-HBenchmark/Hypergraph/q9.txt" ... 
+Parsing input file done in 0 sec (6 atoms, 44 variables).
+
+Building hypergraph ... 
+Building hypergraph done in 0 sec.
+
+Building hypertree (det-25-decomp) ... 
+Building hypertree done in 0 sec (hypertree-width: 6).
+
+Checking hypertree conditions ... 
+Condition 1: satisfied.
+Condition 2: satisfied.
+Condition 3: satisfied.
+Condition 4: satisfied.
+Checking hypertree conditions done in 0 sec.
+
+GML output written to: TPC-HBenchmark/Hypergraph/q9.gml
+
+TPC-HBenchmark
