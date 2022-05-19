@@ -1,0 +1,98 @@
+BalKDecomp.o: BalKDecomp.cpp Globals.h DetKDecomp.h Decomp.h Hypergraph.h \
+ Superedge.h NamedEntity.h Vertex.h Hyperedge.h Parser.h Hypertree.h \
+ FractionalEdgeCover.h Separator.h BaseSeparator.h DecompComponent.h \
+ BalKDecomp.h CombinationIterator.h Subedges.h SubedgeSeparatorFactory.h
+BaseSeparator.o: BaseSeparator.cpp BaseSeparator.h Hyperedge.h \
+ NamedEntity.h Globals.h Vertex.h
+CombinationIterator.o: CombinationIterator.cpp CombinationIterator.h
+Decomp.o: Decomp.cpp Decomp.h Globals.h Hypergraph.h Superedge.h \
+ NamedEntity.h Vertex.h Hyperedge.h Parser.h Hypertree.h \
+ FractionalEdgeCover.h Separator.h BaseSeparator.h DecompComponent.h
+DecompComponent.o: DecompComponent.cpp DecompComponent.h Hypergraph.h \
+ Globals.h Superedge.h NamedEntity.h Vertex.h Hyperedge.h Parser.h \
+ BaseSeparator.h
+DetKDecomp.o: DetKDecomp.cpp DetKDecomp.h Globals.h Decomp.h Hypergraph.h \
+ Superedge.h NamedEntity.h Vertex.h Hyperedge.h Parser.h Hypertree.h \
+ FractionalEdgeCover.h Separator.h BaseSeparator.h DecompComponent.h \
+ Subedges.h SubedgeSeparatorFactory.h CombinationIterator.h
+FecCalculator.o: FecCalculator.cpp FecCalculator.h NamedEntity.h \
+ Globals.h FractionalEdgeCover.h Vertex.h Hyperedge.h Hypergraph.h \
+ Superedge.h Parser.h
+FracImproveDecomp.o: FracImproveDecomp.cpp FracImproveDecomp.h \
+ FractionalEdgeCover.h Vertex.h Globals.h NamedEntity.h Hyperedge.h \
+ DetKDecomp.h Decomp.h Hypergraph.h Superedge.h Parser.h Hypertree.h \
+ Separator.h BaseSeparator.h DecompComponent.h FecCalculator.h
+FractionalEdgeCover.o: FractionalEdgeCover.cpp Vertex.h Globals.h \
+ NamedEntity.h Hyperedge.h FractionalEdgeCover.h
+Globals.o: Globals.cpp Globals.h
+Hyperedge.o: Hyperedge.cpp Globals.h Hyperedge.h NamedEntity.h Vertex.h
+Hypergraph.o: Hypergraph.cpp Globals.h Hypergraph.h Superedge.h \
+ NamedEntity.h Vertex.h Hyperedge.h Parser.h CombinationIterator.h
+Hypertree.o: Hypertree.cpp Hypergraph.h Globals.h Superedge.h \
+ NamedEntity.h Vertex.h Hyperedge.h Parser.h Hypertree.h \
+ FractionalEdgeCover.h SetCover.h
+Parser.o: Parser.cpp Parser.h Globals.h
+RankFHDecomp.o: RankFHDecomp.cpp RankFHDecomp.h Globals.h FecCalculator.h \
+ NamedEntity.h FractionalEdgeCover.h Vertex.h Hyperedge.h Hypergraph.h \
+ Superedge.h Parser.h Hypertree.h DecompComponent.h BaseSeparator.h \
+ DetKDecomp.h Decomp.h Separator.h VertexSeparator.h
+Separator.o: Separator.cpp Separator.h Hyperedge.h NamedEntity.h \
+ Globals.h Vertex.h BaseSeparator.h
+SetCover.o: SetCover.cpp SetCover.h Globals.h Vertex.h NamedEntity.h \
+ Hyperedge.h Hypergraph.h Superedge.h Parser.h
+SubedgeSeparatorFactory.o: SubedgeSeparatorFactory.cpp \
+ SubedgeSeparatorFactory.h Hyperedge.h NamedEntity.h Globals.h Vertex.h \
+ CombinationIterator.h Hypergraph.h Superedge.h Parser.h Subedges.h \
+ Separator.h BaseSeparator.h
+Subedges.o: Subedges.cpp Subedges.h Globals.h Hypergraph.h Superedge.h \
+ NamedEntity.h Vertex.h Hyperedge.h Parser.h CombinationIterator.h
+Superedge.o: Superedge.cpp Superedge.h NamedEntity.h Globals.h Vertex.h \
+ Hyperedge.h
+Vertex.o: Vertex.cpp Vertex.h Globals.h NamedEntity.h
+VertexSeparator.o: VertexSeparator.cpp VertexSeparator.h Hyperedge.h \
+ NamedEntity.h Globals.h Vertex.h BaseSeparator.h
+BalSepKDecompMain.o: mains/BalSepKDecompMain.cpp mains/../Parser.h \
+ mains/../Hypergraph.h mains/../Globals.h mains/../Superedge.h \
+ mains/../NamedEntity.h mains/../Vertex.h mains/../Hyperedge.h \
+ mains/../Parser.h mains/../Hypertree.h mains/../FractionalEdgeCover.h \
+ mains/../DetKDecomp.h mains/../Decomp.h mains/../Hypertree.h \
+ mains/../Separator.h mains/../BaseSeparator.h mains/../DecompComponent.h \
+ mains/../BalKDecomp.h mains/../Subedges.h
+FracImproveHDMain.o: mains/FracImproveHDMain.cpp mains/../Parser.h \
+ mains/../Hypergraph.h mains/../Globals.h mains/../Superedge.h \
+ mains/../NamedEntity.h mains/../Vertex.h mains/../Hyperedge.h \
+ mains/../Parser.h mains/../Hypertree.h mains/../FractionalEdgeCover.h \
+ mains/../DetKDecomp.h mains/../Decomp.h mains/../Hypertree.h \
+ mains/../Separator.h mains/../BaseSeparator.h mains/../DecompComponent.h \
+ mains/../BalKDecomp.h mains/../FracImproveDecomp.h mains/../DetKDecomp.h \
+ mains/../FecCalculator.h mains/../Subedges.h mains/../RankFHDecomp.h \
+ mains/../VertexSeparator.h
+GlobalBipKDecompMain.o: mains/GlobalBipKDecompMain.cpp mains/../Parser.h \
+ mains/../Hypergraph.h mains/../Globals.h mains/../Superedge.h \
+ mains/../NamedEntity.h mains/../Vertex.h mains/../Hyperedge.h \
+ mains/../Parser.h mains/../Hypertree.h mains/../FractionalEdgeCover.h \
+ mains/../DetKDecomp.h mains/../Decomp.h mains/../Hypertree.h \
+ mains/../Separator.h mains/../BaseSeparator.h mains/../DecompComponent.h \
+ mains/../BalKDecomp.h mains/../Subedges.h
+HypergraphStats.o: mains/HypergraphStats.cpp mains/../Parser.h \
+ mains/../Hypergraph.h mains/../Globals.h mains/../Superedge.h \
+ mains/../NamedEntity.h mains/../Vertex.h mains/../Hyperedge.h \
+ mains/../Parser.h mains/../Hypertree.h mains/../FractionalEdgeCover.h \
+ mains/../DetKDecomp.h mains/../Decomp.h mains/../Hypertree.h \
+ mains/../Separator.h mains/../BaseSeparator.h mains/../DecompComponent.h \
+ mains/../BalKDecomp.h mains/../Subedges.h
+LocalBipKDecompMain.o: mains/LocalBipKDecompMain.cpp mains/../Parser.h \
+ mains/../Hypergraph.h mains/../Globals.h mains/../Superedge.h \
+ mains/../NamedEntity.h mains/../Vertex.h mains/../Hyperedge.h \
+ mains/../Parser.h mains/../Hypertree.h mains/../FractionalEdgeCover.h \
+ mains/../DetKDecomp.h mains/../Decomp.h mains/../Hypertree.h \
+ mains/../Separator.h mains/../BaseSeparator.h mains/../DecompComponent.h \
+ mains/../BalKDecomp.h mains/../Subedges.h
+RankFHDDecompMain.o: mains/RankFHDDecompMain.cpp mains/../Parser.h \
+ mains/../Hypergraph.h mains/../Globals.h mains/../Superedge.h \
+ mains/../NamedEntity.h mains/../Vertex.h mains/../Hyperedge.h \
+ mains/../Parser.h mains/../Hypertree.h mains/../FractionalEdgeCover.h \
+ mains/../Subedges.h mains/../RankFHDecomp.h mains/../FecCalculator.h \
+ mains/../Hypertree.h mains/../DecompComponent.h mains/../BaseSeparator.h \
+ mains/../DetKDecomp.h mains/../Decomp.h mains/../Separator.h \
+ mains/../VertexSeparator.h

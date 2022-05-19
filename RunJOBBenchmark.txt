@@ -1,113 +1,113 @@
-TBAlgo/main -treewidth q31b < JOBBenchmark/Primalgraph/q31b.graph
-TBAlgo/main -treewidth q31c < JOBBenchmark/Primalgraph/q31c.graph
-TBAlgo/main -treewidth q32a < JOBBenchmark/Primalgraph/q32a.graph
-TBAlgo/main -treewidth q32b < JOBBenchmark/Primalgraph/q32b.graph
-TBAlgo/main -treewidth q33a < JOBBenchmark/Primalgraph/q33a.graph
-TBAlgo/main -treewidth q33b < JOBBenchmark/Primalgraph/q33b.graph
-TBAlgo/main -treewidth q33c < JOBBenchmark/Primalgraph/q33c.graph
-TBAlgo/main -treewidth q3a < JOBBenchmark/Primalgraph/q3a.graph
-TBAlgo/main -treewidth q3b < JOBBenchmark/Primalgraph/q3b.graph
-TBAlgo/main -treewidth q3c < JOBBenchmark/Primalgraph/q3c.graph
-TBAlgo/main -treewidth q4a < JOBBenchmark/Primalgraph/q4a.graph
-TBAlgo/main -treewidth q4b < JOBBenchmark/Primalgraph/q4b.graph
-TBAlgo/main -treewidth q23c < JOBBenchmark/Primalgraph/q23c.graph
-TBAlgo/main -treewidth q24a < JOBBenchmark/Primalgraph/q24a.graph
-TBAlgo/main -treewidth q24b < JOBBenchmark/Primalgraph/q24b.graph
-TBAlgo/main -treewidth q25a < JOBBenchmark/Primalgraph/q25a.graph
-TBAlgo/main -treewidth q25b < JOBBenchmark/Primalgraph/q25b.graph
-TBAlgo/main -treewidth q25c < JOBBenchmark/Primalgraph/q25c.graph
-TBAlgo/main -treewidth q26a < JOBBenchmark/Primalgraph/q26a.graph
-TBAlgo/main -treewidth q26b < JOBBenchmark/Primalgraph/q26b.graph
-TBAlgo/main -treewidth q30a < JOBBenchmark/Primalgraph/q30a.graph
-TBAlgo/main -treewidth q30b < JOBBenchmark/Primalgraph/q30b.graph
-TBAlgo/main -treewidth q30c < JOBBenchmark/Primalgraph/q30c.graph
-TBAlgo/main -treewidth q31a < JOBBenchmark/Primalgraph/q31a.graph
-TBAlgo/main -treewidth q17d < JOBBenchmark/Primalgraph/q17d.graph
-TBAlgo/main -treewidth q17e < JOBBenchmark/Primalgraph/q17e.graph
-TBAlgo/main -treewidth q17f < JOBBenchmark/Primalgraph/q17f.graph
-TBAlgo/main -treewidth q18a < JOBBenchmark/Primalgraph/q18a.graph
-TBAlgo/main -treewidth q18b < JOBBenchmark/Primalgraph/q18b.graph
-TBAlgo/main -treewidth q18c < JOBBenchmark/Primalgraph/q18c.graph
-TBAlgo/main -treewidth q19a < JOBBenchmark/Primalgraph/q19a.graph
-TBAlgo/main -treewidth q19b < JOBBenchmark/Primalgraph/q19b.graph
-TBAlgo/main -treewidth q19c < JOBBenchmark/Primalgraph/q19c.graph
-TBAlgo/main -treewidth q19d < JOBBenchmark/Primalgraph/q19d.graph
-TBAlgo/main -treewidth q1a < JOBBenchmark/Primalgraph/q1a.graph
-TBAlgo/main -treewidth q1b < JOBBenchmark/Primalgraph/q1b.graph
-TBAlgo/main -treewidth q26c < JOBBenchmark/Primalgraph/q26c.graph
-TBAlgo/main -treewidth q27a < JOBBenchmark/Primalgraph/q27a.graph
-TBAlgo/main -treewidth q27b < JOBBenchmark/Primalgraph/q27b.graph
-TBAlgo/main -treewidth q27c < JOBBenchmark/Primalgraph/q27c.graph
-TBAlgo/main -treewidth q28a < JOBBenchmark/Primalgraph/q28a.graph
-TBAlgo/main -treewidth q28b < JOBBenchmark/Primalgraph/q28b.graph
-TBAlgo/main -treewidth q28c < JOBBenchmark/Primalgraph/q28c.graph
-TBAlgo/main -treewidth q29a < JOBBenchmark/Primalgraph/q29a.graph
-TBAlgo/main -treewidth q29b < JOBBenchmark/Primalgraph/q29b.graph
-TBAlgo/main -treewidth q29c < JOBBenchmark/Primalgraph/q29c.graph
-TBAlgo/main -treewidth q2a < JOBBenchmark/Primalgraph/q2a.graph
-TBAlgo/main -treewidth q2b < JOBBenchmark/Primalgraph/q2b.graph
-TBAlgo/main -treewidth q2c < JOBBenchmark/Primalgraph/q2c.graph
-TBAlgo/main -treewidth q2d < JOBBenchmark/Primalgraph/q2d.graph
-TBAlgo/main -treewidth q4c < JOBBenchmark/Primalgraph/q4c.graph
-TBAlgo/main -treewidth q5a < JOBBenchmark/Primalgraph/q5a.graph
-TBAlgo/main -treewidth q5b < JOBBenchmark/Primalgraph/q5b.graph
-TBAlgo/main -treewidth q5c < JOBBenchmark/Primalgraph/q5c.graph
-TBAlgo/main -treewidth q6a < JOBBenchmark/Primalgraph/q6a.graph
-TBAlgo/main -treewidth q6b < JOBBenchmark/Primalgraph/q6b.graph
-TBAlgo/main -treewidth q6c < JOBBenchmark/Primalgraph/q6c.graph
-TBAlgo/main -treewidth q6d < JOBBenchmark/Primalgraph/q6d.graph
-TBAlgo/main -treewidth q6e < JOBBenchmark/Primalgraph/q6e.graph
-TBAlgo/main -treewidth q6f < JOBBenchmark/Primalgraph/q6f.graph
-TBAlgo/main -treewidth q7a < JOBBenchmark/Primalgraph/q7a.graph
-TBAlgo/main -treewidth q7b < JOBBenchmark/Primalgraph/q7b.graph
-TBAlgo/main -treewidth q7c < JOBBenchmark/Primalgraph/q7c.graph
-TBAlgo/main -treewidth q8a < JOBBenchmark/Primalgraph/q8a.graph
-TBAlgo/main -treewidth q21a < JOBBenchmark/Primalgraph/q21a.graph
-TBAlgo/main -treewidth q21b < JOBBenchmark/Primalgraph/q21b.graph
-TBAlgo/main -treewidth q21c < JOBBenchmark/Primalgraph/q21c.graph
-TBAlgo/main -treewidth q22a < JOBBenchmark/Primalgraph/q22a.graph
-TBAlgo/main -treewidth q22b < JOBBenchmark/Primalgraph/q22b.graph
-TBAlgo/main -treewidth q22c < JOBBenchmark/Primalgraph/q22c.graph
-TBAlgo/main -treewidth q22d < JOBBenchmark/Primalgraph/q22d.graph
-TBAlgo/main -treewidth q23a < JOBBenchmark/Primalgraph/q23a.graph
-TBAlgo/main -treewidth q23b < JOBBenchmark/Primalgraph/q23b.graph
-TBAlgo/main -treewidth q10a < JOBBenchmark/Primalgraph/q10a.graph
-TBAlgo/main -treewidth q15d < JOBBenchmark/Primalgraph/q15d.graph
-TBAlgo/main -treewidth q13b < JOBBenchmark/Primalgraph/q13b.graph
-TBAlgo/main -treewidth q13c < JOBBenchmark/Primalgraph/q13c.graph
-TBAlgo/main -treewidth q13d < JOBBenchmark/Primalgraph/q13d.graph
-TBAlgo/main -treewidth q14a < JOBBenchmark/Primalgraph/q14a.graph
-TBAlgo/main -treewidth q14b < JOBBenchmark/Primalgraph/q14b.graph
-TBAlgo/main -treewidth q14c < JOBBenchmark/Primalgraph/q14c.graph
-TBAlgo/main -treewidth q15a < JOBBenchmark/Primalgraph/q15a.graph
-TBAlgo/main -treewidth q15b < JOBBenchmark/Primalgraph/q15b.graph
-TBAlgo/main -treewidth q15c < JOBBenchmark/Primalgraph/q15c.graph
-TBAlgo/main -treewidth q8b < JOBBenchmark/Primalgraph/q8b.graph
-TBAlgo/main -treewidth q8c < JOBBenchmark/Primalgraph/q8c.graph
-TBAlgo/main -treewidth q8d < JOBBenchmark/Primalgraph/q8d.graph
-TBAlgo/main -treewidth q9a < JOBBenchmark/Primalgraph/q9a.graph
-TBAlgo/main -treewidth q9b < JOBBenchmark/Primalgraph/q9b.graph
-TBAlgo/main -treewidth q9c < JOBBenchmark/Primalgraph/q9c.graph
-TBAlgo/main -treewidth q9d < JOBBenchmark/Primalgraph/q9d.graph
-TBAlgo/main -treewidth q10b < JOBBenchmark/Primalgraph/q10b.graph
-TBAlgo/main -treewidth q10c < JOBBenchmark/Primalgraph/q10c.graph
-TBAlgo/main -treewidth q11a < JOBBenchmark/Primalgraph/q11a.graph
-TBAlgo/main -treewidth q12a < JOBBenchmark/Primalgraph/q12a.graph
-TBAlgo/main -treewidth q13a < JOBBenchmark/Primalgraph/q13a.graph
-TBAlgo/main -treewidth q16a < JOBBenchmark/Primalgraph/q16a.graph
-TBAlgo/main -treewidth q17a < JOBBenchmark/Primalgraph/q17a.graph
-TBAlgo/main -treewidth q20a < JOBBenchmark/Primalgraph/q20a.graph
-TBAlgo/main -treewidth q11b < JOBBenchmark/Primalgraph/q11b.graph
-TBAlgo/main -treewidth q11c < JOBBenchmark/Primalgraph/q11c.graph
-TBAlgo/main -treewidth q11d < JOBBenchmark/Primalgraph/q11d.graph
-TBAlgo/main -treewidth q12b < JOBBenchmark/Primalgraph/q12b.graph
-TBAlgo/main -treewidth q12c < JOBBenchmark/Primalgraph/q12c.graph
-TBAlgo/main -treewidth q16b < JOBBenchmark/Primalgraph/q16b.graph
-TBAlgo/main -treewidth q16c < JOBBenchmark/Primalgraph/q16c.graph
-TBAlgo/main -treewidth q16d < JOBBenchmark/Primalgraph/q16d.graph
-TBAlgo/main -treewidth q17b < JOBBenchmark/Primalgraph/q17b.graph
-TBAlgo/main -treewidth q17c < JOBBenchmark/Primalgraph/q17c.graph
-TBAlgo/main -treewidth q1c < JOBBenchmark/Primalgraph/q1c.graph
-TBAlgo/main -treewidth q1d < JOBBenchmark/Primalgraph/q1d.graph
-TBAlgo/main -treewidth q20b < JOBBenchmark/Primalgraph/q20b.graph
-TBAlgo/main -treewidth q20c < JOBBenchmark/Primalgraph/q20c.graph
+TBAlgo/main -treewidth JOBBenchmark q31b < JOBBenchmark/Primalgraph/q31b.graph
+TBAlgo/main -treewidth JOBBenchmark q31c < JOBBenchmark/Primalgraph/q31c.graph
+TBAlgo/main -treewidth JOBBenchmark q32a < JOBBenchmark/Primalgraph/q32a.graph
+TBAlgo/main -treewidth JOBBenchmark q32b < JOBBenchmark/Primalgraph/q32b.graph
+TBAlgo/main -treewidth JOBBenchmark q33a < JOBBenchmark/Primalgraph/q33a.graph
+TBAlgo/main -treewidth JOBBenchmark q33b < JOBBenchmark/Primalgraph/q33b.graph
+TBAlgo/main -treewidth JOBBenchmark q33c < JOBBenchmark/Primalgraph/q33c.graph
+TBAlgo/main -treewidth JOBBenchmark q3a < JOBBenchmark/Primalgraph/q3a.graph
+TBAlgo/main -treewidth JOBBenchmark q3b < JOBBenchmark/Primalgraph/q3b.graph
+TBAlgo/main -treewidth JOBBenchmark q3c < JOBBenchmark/Primalgraph/q3c.graph
+TBAlgo/main -treewidth JOBBenchmark q4a < JOBBenchmark/Primalgraph/q4a.graph
+TBAlgo/main -treewidth JOBBenchmark q4b < JOBBenchmark/Primalgraph/q4b.graph
+TBAlgo/main -treewidth JOBBenchmark q23c < JOBBenchmark/Primalgraph/q23c.graph
+TBAlgo/main -treewidth JOBBenchmark q24a < JOBBenchmark/Primalgraph/q24a.graph
+TBAlgo/main -treewidth JOBBenchmark q24b < JOBBenchmark/Primalgraph/q24b.graph
+TBAlgo/main -treewidth JOBBenchmark q25a < JOBBenchmark/Primalgraph/q25a.graph
+TBAlgo/main -treewidth JOBBenchmark q25b < JOBBenchmark/Primalgraph/q25b.graph
+TBAlgo/main -treewidth JOBBenchmark q25c < JOBBenchmark/Primalgraph/q25c.graph
+TBAlgo/main -treewidth JOBBenchmark q26a < JOBBenchmark/Primalgraph/q26a.graph
+TBAlgo/main -treewidth JOBBenchmark q26b < JOBBenchmark/Primalgraph/q26b.graph
+TBAlgo/main -treewidth JOBBenchmark q30a < JOBBenchmark/Primalgraph/q30a.graph
+TBAlgo/main -treewidth JOBBenchmark q30b < JOBBenchmark/Primalgraph/q30b.graph
+TBAlgo/main -treewidth JOBBenchmark q30c < JOBBenchmark/Primalgraph/q30c.graph
+TBAlgo/main -treewidth JOBBenchmark q31a < JOBBenchmark/Primalgraph/q31a.graph
+TBAlgo/main -treewidth JOBBenchmark q17d < JOBBenchmark/Primalgraph/q17d.graph
+TBAlgo/main -treewidth JOBBenchmark q17e < JOBBenchmark/Primalgraph/q17e.graph
+TBAlgo/main -treewidth JOBBenchmark q17f < JOBBenchmark/Primalgraph/q17f.graph
+TBAlgo/main -treewidth JOBBenchmark q18a < JOBBenchmark/Primalgraph/q18a.graph
+TBAlgo/main -treewidth JOBBenchmark q18b < JOBBenchmark/Primalgraph/q18b.graph
+TBAlgo/main -treewidth JOBBenchmark q18c < JOBBenchmark/Primalgraph/q18c.graph
+TBAlgo/main -treewidth JOBBenchmark q19a < JOBBenchmark/Primalgraph/q19a.graph
+TBAlgo/main -treewidth JOBBenchmark q19b < JOBBenchmark/Primalgraph/q19b.graph
+TBAlgo/main -treewidth JOBBenchmark q19c < JOBBenchmark/Primalgraph/q19c.graph
+TBAlgo/main -treewidth JOBBenchmark q19d < JOBBenchmark/Primalgraph/q19d.graph
+TBAlgo/main -treewidth JOBBenchmark q1a < JOBBenchmark/Primalgraph/q1a.graph
+TBAlgo/main -treewidth JOBBenchmark q1b < JOBBenchmark/Primalgraph/q1b.graph
+TBAlgo/main -treewidth JOBBenchmark q26c < JOBBenchmark/Primalgraph/q26c.graph
+TBAlgo/main -treewidth JOBBenchmark q27a < JOBBenchmark/Primalgraph/q27a.graph
+TBAlgo/main -treewidth JOBBenchmark q27b < JOBBenchmark/Primalgraph/q27b.graph
+TBAlgo/main -treewidth JOBBenchmark q27c < JOBBenchmark/Primalgraph/q27c.graph
+TBAlgo/main -treewidth JOBBenchmark q28a < JOBBenchmark/Primalgraph/q28a.graph
+TBAlgo/main -treewidth JOBBenchmark q28b < JOBBenchmark/Primalgraph/q28b.graph
+TBAlgo/main -treewidth JOBBenchmark q28c < JOBBenchmark/Primalgraph/q28c.graph
+TBAlgo/main -treewidth JOBBenchmark q29a < JOBBenchmark/Primalgraph/q29a.graph
+TBAlgo/main -treewidth JOBBenchmark q29b < JOBBenchmark/Primalgraph/q29b.graph
+TBAlgo/main -treewidth JOBBenchmark q29c < JOBBenchmark/Primalgraph/q29c.graph
+TBAlgo/main -treewidth JOBBenchmark q2a < JOBBenchmark/Primalgraph/q2a.graph
+TBAlgo/main -treewidth JOBBenchmark q2b < JOBBenchmark/Primalgraph/q2b.graph
+TBAlgo/main -treewidth JOBBenchmark q2c < JOBBenchmark/Primalgraph/q2c.graph
+TBAlgo/main -treewidth JOBBenchmark q2d < JOBBenchmark/Primalgraph/q2d.graph
+TBAlgo/main -treewidth JOBBenchmark q4c < JOBBenchmark/Primalgraph/q4c.graph
+TBAlgo/main -treewidth JOBBenchmark q5a < JOBBenchmark/Primalgraph/q5a.graph
+TBAlgo/main -treewidth JOBBenchmark q5b < JOBBenchmark/Primalgraph/q5b.graph
+TBAlgo/main -treewidth JOBBenchmark q5c < JOBBenchmark/Primalgraph/q5c.graph
+TBAlgo/main -treewidth JOBBenchmark q6a < JOBBenchmark/Primalgraph/q6a.graph
+TBAlgo/main -treewidth JOBBenchmark q6b < JOBBenchmark/Primalgraph/q6b.graph
+TBAlgo/main -treewidth JOBBenchmark q6c < JOBBenchmark/Primalgraph/q6c.graph
+TBAlgo/main -treewidth JOBBenchmark q6d < JOBBenchmark/Primalgraph/q6d.graph
+TBAlgo/main -treewidth JOBBenchmark q6e < JOBBenchmark/Primalgraph/q6e.graph
+TBAlgo/main -treewidth JOBBenchmark q6f < JOBBenchmark/Primalgraph/q6f.graph
+TBAlgo/main -treewidth JOBBenchmark q7a < JOBBenchmark/Primalgraph/q7a.graph
+TBAlgo/main -treewidth JOBBenchmark q7b < JOBBenchmark/Primalgraph/q7b.graph
+TBAlgo/main -treewidth JOBBenchmark q7c < JOBBenchmark/Primalgraph/q7c.graph
+TBAlgo/main -treewidth JOBBenchmark q8a < JOBBenchmark/Primalgraph/q8a.graph
+TBAlgo/main -treewidth JOBBenchmark q21a < JOBBenchmark/Primalgraph/q21a.graph
+TBAlgo/main -treewidth JOBBenchmark q21b < JOBBenchmark/Primalgraph/q21b.graph
+TBAlgo/main -treewidth JOBBenchmark q21c < JOBBenchmark/Primalgraph/q21c.graph
+TBAlgo/main -treewidth JOBBenchmark q22a < JOBBenchmark/Primalgraph/q22a.graph
+TBAlgo/main -treewidth JOBBenchmark q22b < JOBBenchmark/Primalgraph/q22b.graph
+TBAlgo/main -treewidth JOBBenchmark q22c < JOBBenchmark/Primalgraph/q22c.graph
+TBAlgo/main -treewidth JOBBenchmark q22d < JOBBenchmark/Primalgraph/q22d.graph
+TBAlgo/main -treewidth JOBBenchmark q23a < JOBBenchmark/Primalgraph/q23a.graph
+TBAlgo/main -treewidth JOBBenchmark q23b < JOBBenchmark/Primalgraph/q23b.graph
+TBAlgo/main -treewidth JOBBenchmark q10a < JOBBenchmark/Primalgraph/q10a.graph
+TBAlgo/main -treewidth JOBBenchmark q15d < JOBBenchmark/Primalgraph/q15d.graph
+TBAlgo/main -treewidth JOBBenchmark q13b < JOBBenchmark/Primalgraph/q13b.graph
+TBAlgo/main -treewidth JOBBenchmark q13c < JOBBenchmark/Primalgraph/q13c.graph
+TBAlgo/main -treewidth JOBBenchmark q13d < JOBBenchmark/Primalgraph/q13d.graph
+TBAlgo/main -treewidth JOBBenchmark q14a < JOBBenchmark/Primalgraph/q14a.graph
+TBAlgo/main -treewidth JOBBenchmark q14b < JOBBenchmark/Primalgraph/q14b.graph
+TBAlgo/main -treewidth JOBBenchmark q14c < JOBBenchmark/Primalgraph/q14c.graph
+TBAlgo/main -treewidth JOBBenchmark q15a < JOBBenchmark/Primalgraph/q15a.graph
+TBAlgo/main -treewidth JOBBenchmark q15b < JOBBenchmark/Primalgraph/q15b.graph
+TBAlgo/main -treewidth JOBBenchmark q15c < JOBBenchmark/Primalgraph/q15c.graph
+TBAlgo/main -treewidth JOBBenchmark q8b < JOBBenchmark/Primalgraph/q8b.graph
+TBAlgo/main -treewidth JOBBenchmark q8c < JOBBenchmark/Primalgraph/q8c.graph
+TBAlgo/main -treewidth JOBBenchmark q8d < JOBBenchmark/Primalgraph/q8d.graph
+TBAlgo/main -treewidth JOBBenchmark q9a < JOBBenchmark/Primalgraph/q9a.graph
+TBAlgo/main -treewidth JOBBenchmark q9b < JOBBenchmark/Primalgraph/q9b.graph
+TBAlgo/main -treewidth JOBBenchmark q9c < JOBBenchmark/Primalgraph/q9c.graph
+TBAlgo/main -treewidth JOBBenchmark q9d < JOBBenchmark/Primalgraph/q9d.graph
+TBAlgo/main -treewidth JOBBenchmark q10b < JOBBenchmark/Primalgraph/q10b.graph
+TBAlgo/main -treewidth JOBBenchmark q10c < JOBBenchmark/Primalgraph/q10c.graph
+TBAlgo/main -treewidth JOBBenchmark q11a < JOBBenchmark/Primalgraph/q11a.graph
+TBAlgo/main -treewidth JOBBenchmark q12a < JOBBenchmark/Primalgraph/q12a.graph
+TBAlgo/main -treewidth JOBBenchmark q13a < JOBBenchmark/Primalgraph/q13a.graph
+TBAlgo/main -treewidth JOBBenchmark q16a < JOBBenchmark/Primalgraph/q16a.graph
+TBAlgo/main -treewidth JOBBenchmark q17a < JOBBenchmark/Primalgraph/q17a.graph
+TBAlgo/main -treewidth JOBBenchmark q20a < JOBBenchmark/Primalgraph/q20a.graph
+TBAlgo/main -treewidth JOBBenchmark q11b < JOBBenchmark/Primalgraph/q11b.graph
+TBAlgo/main -treewidth JOBBenchmark q11c < JOBBenchmark/Primalgraph/q11c.graph
+TBAlgo/main -treewidth JOBBenchmark q11d < JOBBenchmark/Primalgraph/q11d.graph
+TBAlgo/main -treewidth JOBBenchmark q12b < JOBBenchmark/Primalgraph/q12b.graph
+TBAlgo/main -treewidth JOBBenchmark q12c < JOBBenchmark/Primalgraph/q12c.graph
+TBAlgo/main -treewidth JOBBenchmark q16b < JOBBenchmark/Primalgraph/q16b.graph
+TBAlgo/main -treewidth JOBBenchmark q16c < JOBBenchmark/Primalgraph/q16c.graph
+TBAlgo/main -treewidth JOBBenchmark q16d < JOBBenchmark/Primalgraph/q16d.graph
+TBAlgo/main -treewidth JOBBenchmark q17b < JOBBenchmark/Primalgraph/q17b.graph
+TBAlgo/main -treewidth JOBBenchmark q17c < JOBBenchmark/Primalgraph/q17c.graph
+TBAlgo/main -treewidth JOBBenchmark q1c < JOBBenchmark/Primalgraph/q1c.graph
+TBAlgo/main -treewidth JOBBenchmark q1d < JOBBenchmark/Primalgraph/q1d.graph
+TBAlgo/main -treewidth JOBBenchmark q20b < JOBBenchmark/Primalgraph/q20b.graph
+TBAlgo/main -treewidth JOBBenchmark q20c < JOBBenchmark/Primalgraph/q20c.graph

@@ -23,7 +23,7 @@
 using namespace std;
 
 int main(int argc, char** argv) {
-	// assert(argc == 1 || argc == 2 || argc == 3);
+	// (argc == 1 || argc == 2 || argc == 3);
 	int upperBound = -1;
 	int problem = -1;
 	
@@ -148,51 +148,50 @@ int main(int argc, char** argv) {
 				}
 
 				Graph testT(treeDecomposition.S);
+				
+				if(argc > 2)
+				{
+					
+					string benchmark = argv[2];
+					string file = argv[3];
+					int count = 0;
+					for(int i = 0; i < testT.n - 1; i++)
+					{
+						for(int j = i + 1; j < testT.n; j++)
+						{
+							if(testT.hasEdge(i, j))
+							{
+								count += 1;
+							}
+						}
+					}
 
-				// if(argc > 2)
-				// {
-				// 	string benchmark = argv[2];
-				// 	string file = argv[3];
-				// 	int count = 0;
+					string dir = benchmark + "/TreeDecomp/" + file + ".graph";
 
-				// 	for(int i = 1; i <= testT.n - 1; i++)
-				// 	{
-				// 		for(int j = i + 1; j <= testT.n; j++)
-				// 		{
-				// 			if(testT.hasEdge(i, j))
-				// 			{
-				// 				count += 1;
-				// 			}
-				// 		}
-				// 	}
+					ofstream myfile(dir, std::ofstream::out);
 
-
-				// 	string dir = benchmark + "/TreeDecomp/" + file + ".graph";
-
-				// 	ofstream myfile(dir, std::ofstream::out);
-				// 	if(myfile.is_open())
-				// 	{
-				// 		myfile << "p " << testT.n << " " << count << "\n";
-				// 		for(int i = 1; i <= testT.n - 1; i++)
-				// 		{
-				// 			for(int j = i + 1; j <= testT.n; j++)
-				// 			{
-				// 				if(testT.hasEdge(i, j))
-				// 				{
-				// 					myfile << "e " << i << " " << j << "\n";
-				// 				}
-				// 			}
-				// 		}
-				// 	}
-				// 	else
-				// 	{
-				// 		cerr << "Unable to open file";
-				// 	}
-				// }
+					if(myfile.is_open())
+					{
+						myfile << "p " << testT.n << " " << count << "\n";
+						for(int i = 0; i < testT.n - 1; i++)
+						{
+							for(int j = i + 1; j < testT.n; j++)
+							{
+								if(testT.hasEdge(i, j))
+								{
+									myfile << "e " << i << " " << j << "\n";
+								}
+							}
+						}
+					}
+					else
+					{
+						cerr << "Unable to open file" << endl;
+					}
+				}
 				
 				// io.printTreeDecomposition(cout, treeDecomposition);
 				
-				cerr<<"File: "<<argv[2]<<endl;
 				cerr<<"Treewidth: "<<treeWidth<<endl;
 				cerr<<"*Fill edges: "<<sol.S.size()<<endl;
 				cerr<<"Time: "<<timer.getTime().count()<<endl;

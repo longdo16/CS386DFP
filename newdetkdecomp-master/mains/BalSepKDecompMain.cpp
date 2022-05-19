@@ -102,19 +102,28 @@ int main(int argc, char **argv)
 	for(int i = 1; i < K; i++)
 	{
 		HT = decompK(HG, i);
-
-		if (HT != NULL)
+		if(HT != NULL)
 		{
-			cout << "Checking hypertree conditions ... " << endl;
-			time(&start);
-			HT->verify();
-			time(&end);
-			cout << "Checking hypertree conditions done in " << difftime(end, start) << " sec." << endl << endl;
-			HT->outputToGML(cOutFile);
-			cout << "GML output written to: " << cOutFile << endl << endl;
 			break;
 		}
 	}
+
+	// for(int i = 1; i < K; i++)
+	// {
+	// 	HT = decompK(HG, i);
+
+	// 	if (HT != NULL)
+	// 	{
+	// 		cout << "Checking hypertree conditions ... " << endl;
+	// 		time(&start);
+	// 		HT->verify();
+	// 		time(&end);
+	// 		cout << "Checking hypertree conditions done in " << difftime(end, start) << " sec." << endl << endl;
+	// 		HT->outputToGML(cOutFile);
+	// 		cout << "GML output written to: " << cOutFile << endl << endl;
+	// 		return EXIT_SUCCESS;
+	// 	}
+	// }
 
 	// Check hypertree conditions
 
