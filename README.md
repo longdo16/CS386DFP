@@ -3,9 +3,9 @@ Require Maven and Visual Studio Code.
 
 To re-produce the result. First, you need to clone the directory: git clone https://github.com/longdo16/CS386DFP.git
 
-Next, open Visual Studio Code and open the CS386DFP folder and run MLK_Parser.java, JOB_Parser.java, TPC_H_Parser.java, and constructPrimalgraph.java
+Next, open Visual Studio Code and open the CS386DFP folder, VS Code might asks to install some require package or extension. Next run MLK_Parser.java, JOB_Parser.java, TPC_H_Parser.java, and constructPrimalgraph.java
 
-From the terminal window, run the run.txt: . run.txt
+From the terminal window at the directory CS386DFP, run the run.txt: . run.txt
 
 Next the following command:
 1. . RunJOBBenchmark.txt
